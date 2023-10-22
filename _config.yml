@@ -8,9 +8,6 @@ plugins:
 theme:
   custom_dir: 'assets'
   favicon: /favicon.png
-  features:
-    - navigation.tabs
-    - navigation.instant
 
 title: witherslayer67's Home Page
 description: Bookmark this to keep an eye on my project updates!
