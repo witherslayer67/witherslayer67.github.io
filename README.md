@@ -13,6 +13,7 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 <br>
 
 - ## [Experience](./experience.md)
+- ## [Academics](./academics.md)
 - ## [Projects]() todo 
 
 <br>
