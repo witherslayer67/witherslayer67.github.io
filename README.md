@@ -14,7 +14,7 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 
 - ## [Experience](./experience.md)
 - ## [Academics](./academics.md)
-- ## [Projects]() todo 
+- ## [Projects](./projects/index.md)  
 
 <br>
 
