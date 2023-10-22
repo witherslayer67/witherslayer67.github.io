@@ -14,7 +14,8 @@
 
 <br>
 
-### Other Experience:
+## Other Experience:
+- Founder and Lead of Generation Game Studios (2022 - Present)
 - Junior Student Government Representative (2022-2023)
 - Yearbook Staff Member (2023)
 - QuizBowl Member (2022 - Present)

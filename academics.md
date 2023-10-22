@@ -114,8 +114,8 @@
 <br>
 
 ### Summer Semester 2024:
-- tbd
-- tbd
+- SGD-113: SGD Programming I (tbd)
+- CTS-130 Spreadsheet (tbd)
 - tbd
 
 <br>
