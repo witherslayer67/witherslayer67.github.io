@@ -11,6 +11,9 @@
     - Programming member and one of the founding students of team 9496 Lynk.
 - `FNC United (Previously known as Project: Gamma)` (2023 - Present): Project Co-manager
     - Founded and is co-managing FNC United, a united scouting front for every single robotics team in the state of North Carolina. The development team consisting of over 40 developers from over 20 different teams.
+
+<br>
+
 ### Other Experience:
 - Junior Student Government Representative (2022-2023)
 - Yearbook Staff Member (2023)
