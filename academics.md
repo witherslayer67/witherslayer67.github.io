@@ -38,6 +38,21 @@
 
 <br>
 
+### Spring Semester 2024: 
+- tbd
+
+<br>
+
+### Fall Semester 2024:
+- tbd
+
+<br>
+
+### Spring Semester 2025:
+- tbd
+
+<br>
+
 ***
 
 <br>
