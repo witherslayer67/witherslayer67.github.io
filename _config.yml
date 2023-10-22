@@ -4,24 +4,13 @@ plugins:
 - search
 
 
-markdown_extensions:
-  - admonition
-  - pymdownx.superfences
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.betterem
-  - pymdownx.tasklist
-  - pymdownx.extra
-  - pymdownx.inlinehilite
-  - pymdownx.highlight:
-      css_class: 'codehilite'
-  - toc:
-        permalink: "#"
-
 
 theme:
   custom_dir: 'assets'
   favicon: /favicon.png
+  features:
+    - navigation.tabs
+    - navigation.instant
 
 title: witherslayer67's Home Page
 description: Bookmark this to keep an eye on my project updates!
