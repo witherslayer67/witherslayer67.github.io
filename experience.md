@@ -12,4 +12,7 @@
 - `FNC United (Previously known as Project: Gamma)` (2023 - Present): Project Co-manager
     - Founded and is co-managing FNC United, a united scouting front for every single robotics team in the state of North Carolina. The development team consisting of over 40 developers from over 20 different teams.
 ### Other Experience:
-- Fiver App Developer (2022)
+- Junior Student Government Representative (2022-2023)
+- Yearbook Staff Member (2023)
+- QuizBowl Member (2022 - Present)
+
