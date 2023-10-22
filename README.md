@@ -41,8 +41,8 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 ---
 [![](https://visitcount.itsvg.in/api?id=witherslayer67&icon=2&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/witherslayer67) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/witherslayer67) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/witherslayer67) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/witherslayer67) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
