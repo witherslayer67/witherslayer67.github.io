@@ -131,3 +131,15 @@
 - tbd
 - tbd
 - tbd
+
+<br>
+
+***
+
+<br>
+
+## Khan Academy
+- AP®︎ College Physics 1
+- AP®︎ College Calculus
+- Electrical engineering
+- Linear algebra
