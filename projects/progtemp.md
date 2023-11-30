@@ -69,7 +69,7 @@ Hello @Programming / everyone, this is pre-season programming training to anyone
 # Meeting 3 till: Putting it together 
 - Will be assigned a mechanism per member (or however)
 
-## 2022 Rapid React Intake
+## 2022 Rapid React Intake (A Mechanism?)
 ### Objective: Make a command / subsystem for an Intake based on the parts that are on the Intake
 Control: 
 - Xbox Controller
