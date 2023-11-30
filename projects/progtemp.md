@@ -1,6 +1,6 @@
 # Programming Training
 
-Hello everyone, this is pre-season programming training to anyone who might be interested in programming this upcoming season.
+Hello @Programming / everyone, this is pre-season programming training to anyone who might be interested in programming this upcoming season.
 
 
 # Expected outcomes
@@ -42,15 +42,17 @@ Hello everyone, this is pre-season programming training to anyone who might be i
 - REV Robotics
   - [REV Software Docs](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information)
 
-## Learn Command Based Framework
+## Learn Command Based Framework (declarative programming paradigm)
 - Learn how subsystems and commands work
-- Robot Container structure
+  - [WPILib: What Is “Command-Based” Programming"?](https://docs.wpilib.org/en/latest/docs/software/commandbased/what-is-command-based.html)
+
 
 ## Learn what different parts are
 - Identify different motors (TalonFX / SparkMAX)
 - Basics of the robot control system
   - RoboRIO
   - Encoders
+  - Sensors
   - CAN
   - etc
 
