@@ -5,8 +5,11 @@ Hello @Programming / everyone, this is pre-season programming training to anyone
 
 # Expected outcomes
 - Download WPILib
+  - 2024 Beta (for now)
 - Setup Git/GitHub
+  - setup extension packs
 - Learn the Basics of Java
+  - Just a quick dive
 - Learn the Basics of Command Based
 - Code a robot (without a robot)
 
