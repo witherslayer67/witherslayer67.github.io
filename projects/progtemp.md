@@ -84,3 +84,5 @@ Robot:
   - Main Goal: Make the Motors spin by setting the speed when the left bumper button is held
     - Optional goal: Make the intake stop when it detects a ball in it
 # Set your avaibility here: [Fourm](<https://www.when2meet.com/?22645858-uXhRD>)
+The Holiday season is rapidly approaching, this has been optimized for 3 weeks max, as we have 5 weeks and some change till kickoff, but Christmas, New Years, School Finals, other events are happening). 
+The key is to practice, continue learning Java on your own time as we are going to do a very light overview of it, and get into FRC specific stuff. 
