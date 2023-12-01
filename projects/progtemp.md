@@ -83,4 +83,4 @@ Robot:
   - CTRE TalonFX Motor Controller
   - Main Goal: Make the Motors spin by setting the speed when the left bumper button is held
     - Optional goal: Make the intake stop when it detects a ball in it
-
+# Set your avaibility here: [Fourm](<https://www.when2meet.com/?22645858-uXhRD>)
