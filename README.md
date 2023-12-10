@@ -44,8 +44,9 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 - Information Technology Python Programming (Certificate)
 - Information Technology Computer Prog. & Dev. Pathway (Certificate)
 - Information Technology Game Programming (Certificate)
-## Projects
-### FRC
+
+## Projects <br>
+### FRC <br>
 - [Rapid React. Robot Code (2022)](https://github.com/FRC5727/5727-RapidReact-Code-2022)
     - This was the Robot Code for 5727's 2022 Rapid React competition season bot, "Overbyte."
     - Features:
