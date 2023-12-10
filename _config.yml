@@ -1,4 +1,4 @@
-remote_theme: witherslayer67/cayman@0.0.2
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 - search
