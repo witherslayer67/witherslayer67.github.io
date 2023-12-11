@@ -7,8 +7,8 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jimmy.mccosker.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/witherslayer67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmy-mccosker) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/witherslayer67) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@witherslayer67) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/witherslayer67_yt) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/witherslayer67) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@witherslayer67) 
 
-## Experience
-### FRC (First Robotics Competition):
+## Experience <br>
+### FRC (First Robotics Competition): <br>
 - `Omegabytes 5727: Lead Programmer` (2021 - 2023)
     - Led the programming subteam on the Omegabytes 5727 programming team, taught programming in the off-seasons of 2022 and 2023. 
     - Awards:
@@ -21,7 +21,7 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 - `FNC United (Previously known as Project: Gamma)` (2023 - Present): Project Co-manager
     - Founded and is co-managing FNC United, a united scouting front for every single robotics team in the state of North Carolina. The development team consisting of over 40 developers from over 20 different teams.
 
-### Other Experience:
+### Other Experience: <br>
 - Founder and Lead of Generation Game Studios (2022 - Present)
 - Junior Student Government Representative (2022-2023)
 - Yearbook Staff Member (2023)
@@ -29,13 +29,13 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
 
 <br>
 
-## Academics
-### Rutherford Early College High (REaCH) 
+## Academics <br>
+### Rutherford Early College High (REaCH) <br>
 (2021 - 2025)
 - Highschool
 - Class of 25'
 
-### Isothermal Community College (Computer Science Focus / Major)
+### Isothermal Community College (Computer Science Focus / Major) <br>
 (2021 - 2025)
 - Associates in Science
 - Associate in Applied Science
@@ -115,15 +115,19 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
         - ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=000000) 
         - ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub&color=000000) 
         - ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=000000)
-### Tools
+
+### Tools <br>
 - [RGB to HEX converter (2023)]()
     - Techstack:
         - ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=000000) 
         - ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=000000) 
         - ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub&color=000000) 
         - ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=000000)
-## 💰 You can help me by Donating
+
+## 💰 You can help me by Donating <br>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/witherslayer67) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/witherslayer67) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<script src="//widgets.clicky.com/flashy/?site_id=101435660&sitekey=1adfc16f5bcdeb744e9fb0b3be17222d&w=400&h=300&date=last-180-days&type=actions&title=&hide_y=0&hide_title=0&hide_branding=0" type="text/javascript"></script>
