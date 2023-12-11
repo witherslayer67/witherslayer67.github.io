@@ -130,4 +130,3 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<script src="//widgets.clicky.com/flashy/?site_id=101435660&sitekey=1adfc16f5bcdeb744e9fb0b3be17222d&w=400&h=300&date=last-180-days&type=actions&title=&hide_y=0&hide_title=0&hide_branding=0" type="text/javascript"></script>
