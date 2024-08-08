@@ -18,7 +18,12 @@ Hello! I am a young software developer, gamer, youtuber, aspiring computer scien
             - Celebrates an innovative control system or application of control components – electrical, mechanical or software – to provide unique machine functions.
 - `Lynk 9496: Programmer` (2023 - Present)
     - Programming member and one of the founding students of team 9496 Lynk.
-- `FNC United (Previously known as Project: Gamma)` (2023 - Present): Project Co-manager
+    - Awards:
+        - District Championship Dean's List Semi-Finalist (2024 Mecklenburg):
+            - The students who earn FIRST Dean’s List status as either a Semi-finalist, Finalist or Winner, are great examples of student leaders who have led their teams and communities to increased awareness for FIRST and its mission. It is the goal of FIRST that these individuals will continue, post-award, as great leaders, student alumni, and advocates of FIRST.
+        - Autonomous Award (2024 Mecklenburg):
+            - Celebrates the team that has demonstrated consistent, reliable, high-performance robot operation during autonomously managed actions. Evaluation is based on the robot’s ability to sense its surroundings, position itself or onboard mechanisms appropriately, and execute tasks.
+- `FNC United (Previously known as Project: Gamma)` (2023 - 2024): Project Co-manager
     - Founded and is co-managing FNC United, a united scouting front for every single robotics team in the state of North Carolina. The development team consisting of over 40 developers from over 20 different teams.
 
 ### Other Experience: <br>
