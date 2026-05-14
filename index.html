@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jimmy McCosker | Software Engineer</title>
+    <style>
+        :root {
+            --bg-dark: #0f0f0f;
+            --bg-card: #1a1a1a;
+            --primary-red: #8b0000; /* Dark Red Theme */
+            --accent-red: #ff3333;
+            --text-main: #e0e0e0;
+            --text-dim: #b0b0b0;
+        }
+
+        .link-blue { color: #3498db; }
+        .link-green { color: #2ecc71; }
+        .link-subtle { color: var(--text-dim); text-decoration: underline; }
+        .link-color { color: #FF5F5F}
+
+        a:hover {
+            color: #ffffff;
+            border-bottom: 1px solid #ffffff;
+            text-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Header Styles */
+        header {
+            border-bottom: 2px solid var(--primary-red);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            color: var(--primary-red);
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        .contact-info {
+            color: var(--text-dim);
+            font-size: 0.9rem;
+        }
+
+        /* Section Styles */
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            border-left: 4px solid var(--primary-red);
+            padding-left: 15px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .item {
+            background: var(--bg-card);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #333;
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            color: var(--accent-red);
+            font-weight: bold;
+        }
+
+        .tech-tags {
+            margin-top: 10px;
+        }
+
+        .tag {
+            background: var(--bg-dark);
+            color: red;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-right: 5px;
+        }
+
+        /* Skills Grid */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .skill-card {
+            background: var(--bg-card);
+            padding: 10px;
+            text-align: center;
+            border-bottom: 2px solid var(--primary-red);
+        }
+
+        a {
+            color: var(--accent-red);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Jimmy McCosker</h1>
+        <h3>Software Engineering Student & Robotics Mentor / Volunteer</h3>
+        <div class="contact-info">
+            Bostic, North Carolina | <a href="mailto:jimmy.mccosker@gmail.com">jimmy.mccosker@gmail.com</a>
+        </div>
+    </header>
+
+    <section id="education">
+        <h2>Education</h2>
+        <div class="item">
+            <div class="item-header">
+                <span>Southern New Hampshire University</span>
+                <span>Expected Graduation: Aug. 2027</span>
+            </div>
+            <div>B.S. in Computer Science (Software Engineering) </div>
+        </div>
+        <div class="item">
+            <div class="item-header">
+                <span>Isothermal Community College</span>
+                <span>Graduated 2025</span>
+            </div>
+            <div>A.S. in Computer Science </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-card">Java (6 yrs)</div>
+            <div class="skill-card">Git/GitHub (5 yrs)</div>
+            <div class="skill-card">C++ (2-3 yrs)</div>
+            <div class="skill-card">Python (1-2 yrs)</div>
+            <div class="skill-card">Unity (2-3 yrs)</div>
+            <div class="skill-card">C# (~2 yrs)</div>
+        </div>
+    </section>
+
+    <section id="experience">
+        <h2>Technical Experience</h2>
+        <div class="item">
+            <div class="item-header">
+                <span>Programming Mentor | LYNK 9496 Robotics</span>
+                <span>May 2025 - Present</span>
+            </div>
+            <p>I help guide the team by breaking down complex coding problems into smaller, manageable tasks. I also assist in teaching the students the fundamentals of the Java programming language. I work closely with the students during the build season to provide support, answer questions, and give feedback on their code. Furthermore, I help strategize the robot's actions during matches to maximize points. Ultimately, I'm here to support students as they learn and help them succeed.</p>
+        </div>
+        <div class="item">
+            <div class="item-header">
+                <span>Lead Programming Student | LYNK 9496 Robotics</span>
+                <span>Sept 2023 - May 2025</span>
+            </div>
+            <p>As a software and strategy student at LYNK Robotics, my primary focus was on developing the code that brought our robot to life. I worked closely with the programming subteam, contributing to the logic that controlled the robot's movements and actions during competitions. Beyond coding, I was involved in strategizing our game plan, analyzing the rules, and understanding the tasks needed for the robot. Moreover, I helped design autonomous routines, which were critical for earning points at the start of each match. Ultimately, I strived to blend technical skills with strategic thinking to enhance the team's overall performance on the field.</p>
+        </div>
+        <div class="item">
+            <div class="item-header">
+                <span>Lead Programming Student | FRC Omegabytes 5727 Robotics</span>
+                <span>Aug 2021 - Sept 2023</span>
+            </div>
+            <p>Lead the Omegabytes Programming subteam, gave technical direction after leaving the Omegabytes.</p>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Technical Projects</h2>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://docs.lynkrobotics.org/" class="link-color">LYNK Library of Knowledge</a></span>
+                <span>Sept 2023 - Present</span>
+            </div>
+            <p>Developed and managed an open-source technical documentation hub for FRC teams, consolidating deep-dive resources on robotics programming, mechanical build standards, and strategic analysis. Focused on information hierarchy and technical clarity.</p>
+            <div class="tech-tags">
+                <span class="tag">HTML</span>
+                <span class="tag">Markdown</span>
+                <span class="tag">GitHub Actions</span>
+                <span class="tag">Google Drive</span>
+                <span class="tag"><a href="https://github.com/LynkRobotics/Lynk-Library-of-Knowledge" class="link-color">Project Repository</a></span>
+                <span class="tag"><a href="https://docs.lynkrobotics.org/" class="link-color">Project Website</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://witherslayer67.github.io/pit-tracker/" class="link-color">FRC Pit Tracker</a></span>
+                <span>April 2026 - Present</span>
+            </div>
+            <p>Developed a mobile-friendly web tool to coordinate large-scale data collection during robotics competitions, featuring a 'check-off' system for scouting progress. Implemented client-side storage to ensure data persistence, allowing users to track progress reliably without needing a constant internet connection.</p>
+            <div class="tech-tags">
+                <span class="tag">HTML</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JSON</span>
+                <span class="tag"><a href="https://github.com/witherslayer67/pit-tracker" class="link-color">Project Repository</a></span>
+                <span class="tag"><a href="https://witherslayer67.github.io/pit-tracker/" class="link-color">Project Website</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://www.thebluealliance.com/team/9496/2026" class="link-color">LYNK Robot Code 2026: Matterhorn "Mattie"</a></span>
+                <span>
+                    Jan 2026 - May 2026
+                </span>
+            </div>
+            <p>Robot Code for our 2026 in-season robot, Matterhorn.</p>
+            <div class="tech-tags">
+                <span class="tag">Java</span>
+                <span class="tag">Vision Systems (AprilTag)</span>
+                <span class="tag">Git</span>
+                <span class="tag">GitHub</span> 
+                <span class="tag"><a href="https://github.com/LynkRobotics/RobotCode2026Public" class="link-color">Project Repository</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://www.thebluealliance.com/team/9496/2025" class="link-color">LYNK Robot Code 2025 - Off-Season: SubLyme</a></span>
+                <span>
+                    May 2025 - Sept 2025
+                </span>
+            </div>
+            <p>Robot Code for our 2025 off-season robot, Sublyme.</p>
+            <div class="tech-tags">
+                <span class="tag">Java</span>
+                <span class="tag">Vision Systems (AprilTags / Object Detection)</span>
+                <span class="tag">Git</span>
+                <span class="tag">GitHub</span> 
+                <span class="tag"><a href="https://github.com/LynkRobotics/Sublyme" class="link-color">Project Repository</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://www.thebluealliance.com/team/9496/2025" class="link-color">LYNK Robot Code 2025: Chimney Rock "Rocky"</a></span>
+                <span>
+                    Jan 2025 - May 2025
+                </span>
+            </div>
+            <p>Robot Code for our 2025 in-season robot, Rocky.</p>
+            <div class="tech-tags">
+                <span class="tag">Java</span>
+                <span class="tag">Vision Systems (AprilTags / Object Detection)</span>
+                <span class="tag">Git</span>
+                <span class="tag">GitHub</span> 
+                <span class="tag"><a href="https://github.com/LynkRobotics/RobotCode2025" class="link-color">Project Repository</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://www.thebluealliance.com/team/9496/2024" class="link-color">LYNK Robot Code 2024: Appalachian “Latch”</a></span>
+                <span>
+                    Jan 2024 - Dec 2024
+                </span>
+            </div>
+            <p>Robot Code for our 2024 in-season robot, Latch.</p>
+            <div class="tech-tags">
+                <span class="tag">Java</span>
+                <span class="tag">Vision Systems (AprilTags / Object Detection)</span>
+                <span class="tag">Git</span>
+                <span class="tag">GitHub</span> 
+                <span class="tag"><a href="https://github.com/LynkRobotics/RobotCode2024" class="link-color">Project Repository</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://www.thebluealliance.com/team/5727/2023" class="link-color">FRC Omegabytes 5727 Robot Code 2023: Grababyte</a></span>
+                <span>
+                    Jan 2023 - Sept 2023
+                </span>
+            </div>
+            <p>Robot Code for 5727's 2023 in-season robot, Grababyte.</p>
+            <div class="tech-tags">
+                <span class="tag">Java</span>
+                <span class="tag">Git</span>
+                <span class="tag">GitHub</span> 
+                <span class="tag"><a href="https://github.com/FRC5727/2023_ChargedUp" class="link-color">Project Repository</a></span>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <span><a href="https://www.thebluealliance.com/team/5727/2022" class="link-color">FRC Omegabytes 5727 Robot Code 2022: Overbyte</a></span>
+                <span>
+                    Jan 2022 - Dec 2022
+                </span>
+            </div>
+            <p>Robot Code for 5727's 2022 in-season robot, Overbyte.</p>
+            <div class="tech-tags">
+                <span class="tag">Java</span>
+                <span class="tag">Git</span>
+                <span class="tag">GitHub</span> 
+                <span class="tag"><a href="https://github.com/FRC5727/5727-RapidReact-Code-2022" class="link-color">Project Repository</a></span>
+            </div>
+        </div>
+    </section>
+
+    <section id="volunteer">
+        <h2>Volunteer Leadership</h2>
+        <ul>
+            <li>Control System Advisor - FRC North Charleston & Richland (2026)</li>
+            <li>Robot Inspector - FRC Asheville Event (2025)</li>
+            <li>Control System Advisor - FRC Doyenne Inspiration West (2024)</li>
+        </ul>
+    </section>
+</div>
+
+</body>
+</html>
