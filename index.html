@@ -282,9 +282,17 @@
                     <summary>View Demo</summary>
                     <div class="dropdown-content">
                         <div class="demo-site">
-                            <iframe src="https://docs.lynkrobotics.org/" title="description"></iframe>
+                            <iframe id="LLK-iframe" title="description"></iframe>
                         </div>
                     </div>
+                    <script>
+                        const iframe_LLK = document.getElementById('LLK-iframe');
+                        const targetUrl_LLK = 'https://docs.lynkrobotics.org/';
+
+                        const timestamp_LLK = new Date().getTime(); 
+
+                        iframe_LLK.src = `${targetUrl_LLK}?cachebuster=${timestamp_LLK}`;
+                    </script>
                 </details>
                 <div class="tech-tags">
                     <span class="tag">HTML</span>
@@ -314,9 +322,17 @@
                     <div class="dropdown-content">
                         <p><strong>Key Features:</strong> TODO</p>
                         <div class="demo-site">
-                            <iframe src="https://jimmymccosker.me/pit-tracker/" title="description"></iframe>
+                            <iframe id="pit-tracker-iframe" title="description"></iframe>
                         </div>
                     </div>
+                    <script>
+                        const iframe = document.getElementById('pit-tracker-iframe');
+                        const targetUrl = 'https://jimmymccosker.me/pit-tracker/';
+
+                        const timestamp = new Date().getTime(); 
+
+                        iframe.src = `${targetUrl}?cachebuster=${timestamp}`;
+                    </script>
                 </details>
                 <div class="tech-tags">
                     <span class="tag">HTML</span>
@@ -347,10 +363,18 @@
                         <p><strong>DEMO: </strong> Click "RUN"</p>
                         <p><strong>Try: </strong> 75 quals first day, and 135 quals second day</p>
                         <div class="demo-site">
-                            <iframe src="https://www.programiz.com/online-compiler/7oG5vgT9YE4gz"
+                            <iframe id="scouting-scheduler-iframe"
                                 title="description"></iframe>
                         </div>
                     </div>
+                    <script>
+                        const iframe_scouter_Scheduler = document.getElementById('scouting-scheduler-iframe');
+                        const targetUrl_scouter_Scheduler = 'https://www.programiz.com/online-compiler/7oG5vgT9YE4gz';
+
+                        const timestamp_scouter_Scheduler = new Date().getTime(); 
+
+                        iframe_scouter_Scheduler.src = `${targetUrl_scouter_Scheduler}?cachebuster=${timestamp_scouter_Scheduler}`;
+                    </script>
                 </details>
                 <div class="tech-tags">
                     <span class="tag">Python</span>
