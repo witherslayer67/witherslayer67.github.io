@@ -121,6 +121,52 @@
         a:hover {
             text-decoration: underline;
         }
+
+        .project-dropdown {
+          margin-top: 15px;
+          margin-bottom: 15px;
+          background-color: #1a1a1a; 
+          border: 1px solid #333;
+          border-radius: 6px;
+          overflow: hidden;
+        }
+
+        /* The clickable header */
+        .project-dropdown summary {
+          padding: 10px 15px;
+          font-weight: bold;
+          color: #ff3333; 
+          cursor: pointer;
+          list-style: none; 
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+
+        .project-dropdown summary::after {
+          content: '▼';
+          font-size: 0.8rem;
+          transition: transform 0.2s ease;
+        }
+
+        .project-dropdown[open] summary::after {
+          transform: rotate(180deg);
+        }
+
+        .dropdown-content {
+          padding: 15px;
+          border-top: 1px solid #333;
+          color: #cccccc;
+          font-size: 0.95rem;
+        }
+
+        /* Make embedded videos responsive */
+        .demo-video iframe {
+          width: 100%;
+          height: 250px;
+          margin-top: 10px;
+          border-radius: 4px;
+        }
     </style>
 </head>
 <body>
@@ -315,6 +361,15 @@
                 </span>
             </div>
             <p>Robot Code for 5727's 2023 in-season robot, Grababyte.</p>
+            <details class="project-dropdown">
+                <summary>View Robot</summary>
+                <div class="dropdown-content">
+                  <p><strong>Key Features:</strong> Automated deployment via GitHub Actions, markdown-parsed documentation structure.</p>
+                  <div class="demo-video">
+                    <iframe src="https://www.youtube.com/embed/aiGdfo6V0tw?si=SgxQgpazH-MCY8TE" title="World Championship: Curie Qual 119" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+            </details>
             <div class="tech-tags">
                 <span class="tag">Java</span>
                 <span class="tag">Git</span>
@@ -337,6 +392,7 @@
                 <span class="tag">GitHub</span> 
                 <span class="tag"><a href="https://github.com/FRC5727/5727-RapidReact-Code-2022" class="link-color" target="_blank">Project Repository</a></span>
             </div>
+
         </div>
     </section>
 
