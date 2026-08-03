@@ -10,7 +10,6 @@
             --bg-dark: #0f0f0f;
             --bg-card: #1a1a1a;
             --primary-red: #8b0000;
-            /* Dark Red Theme */
             --accent-red: #ff3333;
             --text-main: #e0e0e0;
             --text-dim: #b0b0b0;
@@ -54,7 +53,6 @@
             padding: 40px 20px;
         }
 
-        /* Header Styles */
         header {
             border-bottom: 2px solid var(--primary-red);
             padding-bottom: 20px;
@@ -72,7 +70,6 @@
             font-size: 0.9rem;
         }
 
-        /* Section Styles */
         section {
             margin-bottom: 40px;
         }
@@ -235,6 +232,13 @@
             <h2>Technical Experience</h2>
             <div class="item">
                 <div class="item-header">
+                    <span>IT Technician | CooperRiis</span>
+                    <span>July 2026 - Present</span>
+                </div>
+                <p></p> <!-- TODO: Make later -->
+            </div>
+            <div class="item">
+                <div class="item-header">
                     <span>Programming Mentor | LYNK 9496 Robotics</span>
                     <span>May 2025 - Present</span>
                 </div>
@@ -268,6 +272,42 @@
 
         <section id="projects">
             <h2>Technical Projects</h2>
+
+            <div class="item">
+                <div class="item-header">
+                    <span><a href="https://frcelectrical.org/" class="link-color" target="_blank">FRCElectrical.org</a></span>
+                    <span>June 2026 - Present</span>
+                </div>
+                <p>Helped lead FRCElectrical.org, a project into making a documentation site for everything FRC Electrical.</p>
+                <details class="project-dropdown">
+                    <summary>View Demo</summary>
+                    <div class="dropdown-content">
+                        <div class="demo-site">
+                            <iframe id="FRCElectrical-iframe" title="description"></iframe>
+                        </div>
+                    </div>
+                    <script>
+                        const iframe_FRCElectrical = document.getElementById('FRCElectrical-iframe');
+                        const targetUrlFRCElectrical = 'https://frcelectrical.org/';
+
+                        const timestamp_FRCElectrical = new Date().getTime(); 
+
+                        iframe_FRCElectrical.src = `${targetUrl_FRCElectrical}?cachebuster=${timestamp_FRCElectrical}`;
+                    </script>
+                </details>
+                <div class="tech-tags">
+                    <span class="tag">Zensical</span>
+                    <span class="tag">Markdown</span>
+                    <span class="tag">HTML</span>
+                    <span class="tag">CSS</span>
+                    <span class="tag">GitHub Actions</span>
+                    <span class="tag">GitHub Pages</span>
+                    <span class="tag"><a href="https://github.com/LynkRobotics/Lynk-Library-of-Knowledge"
+                            class="link-color" target="_blank">Project Repository</a></span>
+                    <span class="tag"><a href="https://frcelectrical.org/" class="link-color">Project
+                            Website</a></span>
+                </div>
+            </div>
 
             <div class="item">
                 <div class="item-header">
